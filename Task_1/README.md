@@ -1,6 +1,6 @@
 # Number-Game
 Task-1 : Number Game<br>
-Language : Java
+Language : Java<br>
 The task is create the Number Guessing Game, which a user can play with guessing the number.The system generates a random number in range 1 to 100 for each execution and user supposed to guess the number.
 
 # Demo-video:
