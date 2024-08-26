@@ -4,20 +4,20 @@ Welcome to the CodSoft Java Development Internship Program! This document outlin
 The CodSoft Java Development Internship is a comprehensive program that spans several weeks, focusing on real-world applications of Java development. Interns will engage in various projects that challenge their coding abilities, promote problem-solving skills, and foster collaborative learning.
 <h2>Tasks Overview</h2>
 <h3>Task 1: Number Guessing Game</h3>
-**Objective**: Create a game where a random number is generated, and the user must guess it.
-**Features:**
+<h4>Objective:</h4>Create a game where a random number is generated, and the user must guess it.<br>
+<h4>Features:</h4>
 Generate random numbers within a specified range.
 Provide feedback on user guesses (correct, too high, too low).
 Allow multiple rounds and calculate scores.
 <h3>Task 2: Student Grade Calculator</h3>
-**Objective**: Develop a program to calculate student grades.
-**Features:**
+<h4>Objective:</h4> Develop a program to calculate student grades.<br>
+<h4>Features:</h4>
 Input total marks and compute the average percentage.
 Assign grades based on the calculated average.
 Display results in a user-friendly format.
 <h3>Task 3: ATM Interface</h3>
-**Objective**: Simulate an ATM machine's functionality.
-**Features:**
+<h4>Objective:</h4> Simulate an ATM machine's functionality.<br>
+<h4>Features:</h4>
 Create an ATM class with methods for withdrawing, depositing, and checking balance.
 Implement input validation to ensure transactions are processed correctly.
 Connect the ATM class to a user's bank account for real-time balance updates.
